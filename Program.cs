@@ -29,8 +29,18 @@ class Program{
         // var keyword
         /*using var keyword when the variable initialize using var the compiler will automatically updated the data type what we assign*/
 
-        var name = "Kavishka Sasindu";
+        // var name = "Kavishka Sasindu";
+        // Console.WriteLine(name);
+
+        // COnsole.input/output
+
+        Console.Write("Enter your name :");
+        string name = Console.ReadLine();
         Console.WriteLine(name);
+
+        Console.Write("Enter your age :");
+        int age  = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine(age);
 
 
     }
