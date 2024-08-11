@@ -1,0 +1,14 @@
+/home/ks-dev/Documents/c#/myc#/bin/Debug/net8.0/myc#
+/home/ks-dev/Documents/c#/myc#/bin/Debug/net8.0/myc#.deps.json
+/home/ks-dev/Documents/c#/myc#/bin/Debug/net8.0/myc#.runtimeconfig.json
+/home/ks-dev/Documents/c#/myc#/bin/Debug/net8.0/myc#.dll
+/home/ks-dev/Documents/c#/myc#/bin/Debug/net8.0/myc#.pdb
+/home/ks-dev/Documents/c#/myc#/obj/Debug/net8.0/myc#.GeneratedMSBuildEditorConfig.editorconfig
+/home/ks-dev/Documents/c#/myc#/obj/Debug/net8.0/myc#.AssemblyInfoInputs.cache
+/home/ks-dev/Documents/c#/myc#/obj/Debug/net8.0/myc#.AssemblyInfo.cs
+/home/ks-dev/Documents/c#/myc#/obj/Debug/net8.0/myc#.csproj.CoreCompileInputs.cache
+/home/ks-dev/Documents/c#/myc#/obj/Debug/net8.0/myc#.dll
+/home/ks-dev/Documents/c#/myc#/obj/Debug/net8.0/refint/myc#.dll
+/home/ks-dev/Documents/c#/myc#/obj/Debug/net8.0/myc#.pdb
+/home/ks-dev/Documents/c#/myc#/obj/Debug/net8.0/myc#.genruntimeconfig.cache
+/home/ks-dev/Documents/c#/myc#/obj/Debug/net8.0/ref/myc#.dll
